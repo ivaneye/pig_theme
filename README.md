@@ -8,4 +8,4 @@ A light table theme based on solarized
 
  * Start of implementation
 
-![](shot.png)
+![](shot.jpg)
