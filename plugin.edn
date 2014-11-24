@@ -1,0 +1,6 @@
+{:name "Pig theme"
+ :version "0.0.1"
+ :author "IvanPig"
+ :source ""
+ :desc "PigTheme"
+ :behaviors "pigtheme.behaviors"}
