@@ -7,3 +7,5 @@ A light table theme based on solarized
 ### 0.0.1
 
  * Start of implementation
+
+![](shot.png)
