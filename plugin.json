@@ -1,0 +1,10 @@
+{
+  "name": "pig-theme",
+  "author": "IvanPig",
+  "version": "0.0.1",
+  "source": "https://github.com/LightTable/HTML",
+  "desc": "A light table theme based on solarized",
+  "dependencies": {
+  },
+  "behaviors": "pigtheme.behaviors"
+}
