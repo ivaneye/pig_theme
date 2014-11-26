@@ -2,7 +2,7 @@
   "name": "pig-theme",
   "author": "IvanPig",
   "version": "0.0.1",
-  "source": "https://github.com/LightTable/HTML",
+  "source": "https://github.com/ivanpig/pig_theme",
   "desc": "A light table theme based on solarized",
   "dependencies": {
   },
