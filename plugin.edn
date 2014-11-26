@@ -1,5 +1,5 @@
 {:name "Pig theme"
- :version "1.0.0"
+ :version "0.1.0"
  :author "IvanPig"
  :source "https://github.com/ivanpig/pig_theme"
  :desc "A light table theme based on solarized"
